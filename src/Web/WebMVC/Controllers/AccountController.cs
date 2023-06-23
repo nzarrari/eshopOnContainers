@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Authentication.OpenIdConnect;
 using Microsoft.AspNetCore.Authentication.Cookies;
 
 //comment here
+//comment #2
 namespace Microsoft.eShopOnContainers.WebMVC.Controllers
 {
     [Authorize]
